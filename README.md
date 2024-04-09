@@ -1,2 +1,2 @@
-- Ola Sou o Matheus Câmara , tenho experiencia na area de manutenção de computadores e rede , estou migrando para programação com foco desenvolvimento Android.
+- Ola Sou o Kodi , tenho experiencia na area de manutenção de computadores e rede , estou migrando para programação com foco desenvolvimento Android.
 - Aspirante a desenvolvedor
